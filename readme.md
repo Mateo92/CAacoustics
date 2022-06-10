@@ -16,7 +16,7 @@ The recommended way to install this code is to install python and the modules sp
 
 # Usage
 
-To run the simulations we recommend to clone this repository entirely, then try to run the Notebooks examples in the directory they ere in.
+To run the simulations we recommend to clone this repository entirely, then try to run the Notebooks examples in the directory they are in.
 
 # Dependencies
 
